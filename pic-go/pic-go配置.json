@@ -8,9 +8,9 @@
     },
     "github": {
       "branch": "main",
-      "customUrl": "https://cdn.jsdelivr.net/gh/cuilongjin/static@main",
+      "customUrl": "https://cdn.jsdelivr.net/gh/wqdygkd/static@main",
       "path": "img/",
-      "repo": "cuilongjin/static",
+      "repo": "wqdygkd/static",
       "token": "???"
     }
   },
