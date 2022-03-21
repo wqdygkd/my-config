@@ -10,9 +10,9 @@
 # config多用户配置
 
 # 项目目录1
-[includeIf "gitdir:path/to/you/dir/"]
-    path = ~/.gitconfig_self
+[includeIf "gitdir:c/work/"]
+    path = ~/.gitconfig_work
 
 # 项目目录2
-[includeIf "gitdir:path/to/work/dir/"]
-    path = ~/.gitconfig_work
+[includeIf "gitdir:path/to/you/dir/"]
+    path = ~/.gitconfig_self
